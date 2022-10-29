@@ -1,0 +1,31 @@
+.Scoreboard-Main {
+    position: absolute;
+    width: 20%;
+    top: 10%;
+    text-align: center;
+    border-radius: 1%;
+    font-size: 200%;
+    left: 70%;
+}
+
+.Scoreboard-Team {
+    position: absolute; 
+    left: 30%;
+    padding: 2%;
+    width: 70%;
+    border: 1px solid black;
+}
+
+.Scoreboard-Score {
+    position: absolute;
+    text-align: center;
+    width: 30%;
+    background-color: gray;
+    color: aliceblue;
+    padding: 2%;
+    border: 1px solid gray;
+}
+
+#Scoreboard-Main-Right {
+    top: 20%;
+}
