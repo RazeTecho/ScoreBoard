@@ -1,0 +1,10 @@
+.Timer-Main {
+    background-color: black;
+    color: whitesmoke;
+    position: absolute;
+    width: 5%;
+    font-size: 175%;
+    text-align: center;
+    left: 86%;
+    top: 30%;
+}
