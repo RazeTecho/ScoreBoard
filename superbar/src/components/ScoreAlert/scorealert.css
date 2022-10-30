@@ -1,0 +1,14 @@
+.ScoreAlert-Main {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 80%;
+    left: 10%;
+    animation: blinker 0.3s linear infinite;
+}
+  
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
